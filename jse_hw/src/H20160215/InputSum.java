@@ -21,7 +21,7 @@ public class InputSum {
 			sum = sum +j2; 
 		}
 		System.out.println("두 정수 범위내의 정수의 합 : " + sum);
-		 
+		   
 		
 	}
 }
