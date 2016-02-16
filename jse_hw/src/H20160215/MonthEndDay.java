@@ -9,6 +9,10 @@ public class MonthEndDay {
 	 * 단, 2월은 29일로 통일
 	 * 주의점... 입력값이 1~12를 넘어서면 잘못된 입력값임을 공지
 	 * sw.. 로 처리
+	 * 
+	 * 추가과제
+	 * 2월달 윤년처리.. 년과 월을 입력 받음
+	 * 
 	 */
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
