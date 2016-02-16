@@ -23,7 +23,7 @@ public class DateMain {
 			System.out.println("잘못된 값을 입력했음");
 		}
 	
-		
+		 
 		
 		
 	}
